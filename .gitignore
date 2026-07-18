@@ -1,0 +1,5 @@
+# Ignore Eclipse compiled files
+bin/
+
+# Ignore all Java class files
+*.class
